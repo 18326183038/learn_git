@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is master file
 this is from branch
 this is from branch too!
+=======
+this is from master
+
+>>>>>>> master
